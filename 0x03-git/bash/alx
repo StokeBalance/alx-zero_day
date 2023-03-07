@@ -1,2 +1,2 @@
 #!/bin/bash
-ecH "ALX"
+echo "ALX"
